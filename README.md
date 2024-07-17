@@ -2,37 +2,37 @@ Welcome to my C# Portfolio
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-#### Operators-Assignment
+# Operators-Assignment
 
-# Description
+## Description
 This repository contains solutions for various operator-related assignments in C#. It demonstrates the use of different operators and their applications in programming.
 
-# Technologies
+## Technologies
 *C#
 Features
 *Solutions to operator-related assignments.
 *Demonstrates usage of arithmetic, logical, and other types of operators.
 
-#Installation
+## Installation
 Clone the repository:
 
 git clone https://github.com/KarenChan3/Operators-Assignment.git
 
-# Usage
+## Usage
 *Open in any C# IDE.
 *Navigate through solutions to see operator implementations.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-#### CarInsurance
-# Description
+# CarInsurance
+## Description
 CarInsurance web app using ASP.NET MVC and Entity Framework for managing insurance policies.
 
-# Technologies
+## Technologies
 *ASP.NET MVC
 *Entity Framework
 *C#
 *HTML/CSS
-# Features
+## Features
 *User authentication.
 *CRUD operations for policies.
 *Responsive design.
@@ -43,71 +43,70 @@ Clone the repository:
 git clone https://github.com/KarenChan3/CarInsurance.git
 
 
-# Open in Visual Studio:
+## Open in Visual Studio:
 
 *Restore NuGet packages.
 *Update database connection string.
 *Run the project.
 
-# Usage
+## Usage
 *Register/login.
 *Manage policies via dashboard.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Final-Assignment
-Description
+# Final-Assignment
+## Description
 Final assignment project showcasing advanced C# concepts.
 
 Technologies
-C#
-Features
-Implementation of advanced C# concepts.
-Installation
+*C#
+*Features
+*Implementation of advanced C# concepts.
+## Installation
 Clone the repository:
 
 git clone https://github.com/KarenChan3/Final-Assignment.git
-No additional setup required.
 
-Usage
-Open in any C# IDE.
-Explore project for advanced concepts.
+
+## Usage
+*Open in any C# IDE.
+*Explore project for advanced concepts.
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Method-Class-Assignment
-Description
+# Method-Class-Assignment
+## Description
 Assignments focusing on methods and classes in C#.
 
-Technologies
-C#
-Features
-Assignments showcasing methods and classes.
-Installation
+## Technologies
+*C#
+## Features
+*Assignments showcasing methods and classes.
+## Installation
 Clone the repository:
 
 git clone https://github.com/KarenChan3/Method-Class-Assignment.git
-No additional setup required.
 
-Usage
+## Usage
 Open in any C# IDE.
 Review assignments for methods and classes.
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Polymorphism-Assignment
-Description
+# Polymorphism-Assignment
+## Description
 Assignments demonstrating polymorphism concepts in C#.
 
-Technologies
-C#
-Features
-Assignments showcasing polymorphism.
-Installation
-Clone the repository:
+# Technologies
+*C#
+# Features
+*Assignments showcasing polymorphism.
+*Installation
+*Clone the repository:
 
 git clone https://github.com/KarenChan3/Polymorphism-Assignment.git
-No additional setup required.
 
-Usage
-Open in any C# IDE.
-Explore assignments for polymorphism concepts.
+
+# Usage
+* Open in any C# IDE.
+* Explore assignments for polymorphism concepts.
