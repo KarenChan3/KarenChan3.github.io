@@ -2,52 +2,56 @@ Welcome to my C# Portfolio
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Operators-Assignment
-Description
+#### Operators-Assignment
+
+# Description
 This repository contains solutions for various operator-related assignments in C#. It demonstrates the use of different operators and their applications in programming.
 
-Technologies
-C#
+# Technologies
+*C#
 Features
-Solutions to operator-related assignments.
-Demonstrates usage of arithmetic, logical, and other types of operators.
-Installation
+*Solutions to operator-related assignments.
+*Demonstrates usage of arithmetic, logical, and other types of operators.
+
+#Installation
 Clone the repository:
 
 git clone https://github.com/KarenChan3/Operators-Assignment.git
-No additional setup required.
 
-Usage
-Open in any C# IDE.
-Navigate through solutions to see operator implementations.
+# Usage
+*Open in any C# IDE.
+*Navigate through solutions to see operator implementations.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-CarInsurance
-Description
+#### CarInsurance
+# Description
 CarInsurance web app using ASP.NET MVC and Entity Framework for managing insurance policies.
 
-Technologies
-ASP.NET MVC
-Entity Framework
-C#
-HTML/CSS
-Features
-User authentication.
-CRUD operations for policies.
-Responsive design.
-Installation
+# Technologies
+*ASP.NET MVC
+*Entity Framework
+*C#
+*HTML/CSS
+# Features
+*User authentication.
+*CRUD operations for policies.
+*Responsive design.
+*Installation
+
 Clone the repository:
 
 git clone https://github.com/KarenChan3/CarInsurance.git
-Open in Visual Studio:
 
-Restore NuGet packages.
-Update database connection string.
-Run the project.
-Usage
-Register/login.
-Manage policies via dashboard.
 
+# Open in Visual Studio:
+
+*Restore NuGet packages.
+*Update database connection string.
+*Run the project.
+
+# Usage
+*Register/login.
+*Manage policies via dashboard.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 Final-Assignment
